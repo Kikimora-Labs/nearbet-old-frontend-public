@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e53c9fe.chunk.css",
+    "main.js": "/static/js/main.0a4129ad.chunk.js",
+    "main.js.map": "/static/js/main.0a4129ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/css/2.660505ec.chunk.css": "/static/css/2.660505ec.chunk.css",
+    "static/js/2.fd31b360.chunk.js": "/static/js/2.fd31b360.chunk.js",
+    "static/js/2.fd31b360.chunk.js.map": "/static/js/2.fd31b360.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4d765a485f335e0ca0040997c543de63.js": "/precache-manifest.4d765a485f335e0ca0040997c543de63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.660505ec.chunk.css.map": "/static/css/2.660505ec.chunk.css.map",
+    "static/css/main.2e53c9fe.chunk.css.map": "/static/css/main.2e53c9fe.chunk.css.map",
+    "static/js/2.fd31b360.chunk.js.LICENSE.txt": "/static/js/2.fd31b360.chunk.js.LICENSE.txt",
+    "static/media/believers.svg": "/static/media/believers.262a4742.svg",
+    "static/media/claimers.svg": "/static/media/claimers.a043f265.svg",
+    "static/media/croco.png": "/static/media/croco.485b5e4c.png",
+    "static/media/croco2.png": "/static/media/croco2.ca0e49d1.png",
+    "static/media/founders.svg": "/static/media/founders.21a77b0c.svg",
+    "static/media/lines.png": "/static/media/lines.f8742393.png",
+    "static/media/logo.png": "/static/media/logo.485b5e4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.660505ec.chunk.css",
+    "static/js/2.fd31b360.chunk.js",
+    "static/css/main.2e53c9fe.chunk.css",
+    "static/js/main.0a4129ad.chunk.js"
+  ]
+}
